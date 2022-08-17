@@ -20,7 +20,7 @@
 <a href="https://dev.to/alikan94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alikan94" height="30" width="40" /></a>
 <a href="https://twitter.com/dralikan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dralikan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dr-ali-kan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dr-ali-kan" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/uccggdyjxgmhp6_peu0_z3zg](https://www.youtube.com/channel/UCcgGDyjXGmhp6_pEu0_Z3Zg)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccggdyjxgmhp6_peu0_z3zg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCcgGDyjXGmhp6_pEu0_Z3Zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccggdyjxgmhp6_peu0_z3zg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dralikan94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dralikan94" height="30" width="40" /></a>
 </p>
 
